@@ -1,0 +1,1 @@
+entry: https://ho4040.github.io/yk/
